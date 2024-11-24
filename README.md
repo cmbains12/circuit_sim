@@ -10,14 +10,18 @@ This program allows users to draw and simulate electrical circuits. It provides 
 - Support for AC, DC, and transient analysis
 
 ## Installation
-To install the required dependencies, use the following command:
-```bash
-    pip install -r requirements.txt
-```
-## Usage
-## Drawing Circuits
+To install the required dependencies, ensure you have Python installed and then install the dependencies listed in `requirements.txt`.
 
-## Simulating Circuits
+## Usage
+### Drawing Circuits
+1. Run the program.
+2. Use the mouse to draw lines representing wires.
+3. Click on endpoints to connect wires.
+
+### Simulating Circuits
+1. After drawing the circuit, select the simulation type (AC, DC, or transient).
+2. Run the simulation to analyze the circuit behavior.
+3. View the simulation results in the provided plots.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
