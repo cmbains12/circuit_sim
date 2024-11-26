@@ -15,7 +15,8 @@ setup(
         'matplotlib',
         'sympy',
         'pygame',
-        'setuptools'
+        'setuptools',
+        'pygame-menu'
     ],
     classifiers=[
         'Programming Language :: Python :: 3',

@@ -4,3 +4,4 @@ matplotlib
 sympy
 setuptools
 pygame
+pygame-menu
